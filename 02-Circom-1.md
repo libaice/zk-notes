@@ -24,5 +24,5 @@ Official docs https://docs.circom.io/circom-language/signals/
 
 可用的一些工具仓库:  https://github.com/iden3/circomlib
 
-这个仓库包含了很多关于circuit电路的原型，这些原型可以用来联系circom的知识。
+这个仓库包含了很多关于circuit电路的原型，这些原型可以用来练习circom的知识。
 
